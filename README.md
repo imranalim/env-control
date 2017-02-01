@@ -1,2 +1,2 @@
 # env-control
-Python script for controlling WebLogic based env
+Python script to automate start/stop/rollbounce of WLS
